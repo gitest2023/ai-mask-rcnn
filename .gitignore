@@ -1,0 +1,7 @@
+mask_rcnn_coco.h5
+.venv*/
+.vscode/
+__pycache__/
+*.py[cod]
+*$py.class
+*.h5

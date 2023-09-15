@@ -1,0 +1,15 @@
+pillow==10.0.0
+pandas=2.0.3
+matplotlib==3.7.3
+opencv_python==4.8.0.76
+seaborn==0.12.2
+tensorflow==2.13.0
+ultralytics=8.0.178
+
+# mask-rcnn
+# opencv_python==4.8.0.76
+# scikit-image==0.17.2
+# Fix error: Input image dtype is bool. Interpolation is not defined with bool data type
+# scikit-image==0.16.2
+# matplotlib==3.7.3
+# tensorflow==2.13.0
